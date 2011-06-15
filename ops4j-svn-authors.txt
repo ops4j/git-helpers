@@ -1,6 +1,6 @@
 adreghiciu@gmail.com = Alin Dreghiciu <adreghiciu@gmail.com>
 damian.golda@gmail.com = Damian Golda <damian.golda@gmail.com>
-dmitry = Dmytro Pishchukhin <dmytro.pishchukhin@osgilab.org>
+dpishchukhin = Dmytro Pishchukhin <dmytro.pishchukhin@gmail.com>
 ffang = Freeman Fang <freeman.fang@gmail.com>
 gnodet = Guillaume Nodet <gnodet@gmail.com>
 maguro = Alan Cabrera <alan.cabrera@gmail.com>
