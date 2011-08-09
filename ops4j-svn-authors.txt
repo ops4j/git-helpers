@@ -13,3 +13,5 @@ edward.yakop@gmail.com = Edward Yakop <edward.yakop@gmail.com>
 stefano.lenzi = Stefano Lenzi <kismet.sl@gmail.com>
 msmoot = Mike Smoot <mike.smoot@gmail.com>
 xfournet = Xavier Fournet <xavier.fournet@gmail.com>
+johan = Johan Lindquist <johan@kawoo.co.uk>
+
