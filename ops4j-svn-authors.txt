@@ -14,4 +14,8 @@ stefano.lenzi = Stefano Lenzi <kismet.sl@gmail.com>
 msmoot = Mike Smoot <mike.smoot@gmail.com>
 xfournet = Xavier Fournet <xavier.fournet@gmail.com>
 johan = Johan Lindquist <johan@kawoo.co.uk>
-
+makas@ops4j.org = Makas Lau <makas@malaysia.jayway.net>
+boon = Lan Boon Ping <boonping81@gmail.com>
+gavin@codedragons.com = Gavin Bong <gavin@codedragons.com>
+ops4j@leangen.net = David Leangen <ops4j@leangen.net>
+jensb = Jens Borrmann <Jens.Borrmann@gillardon.de>
